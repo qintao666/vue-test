@@ -6,8 +6,5 @@ hello git
 hello git
 hello git
 hahhahhaha
-<<<<<<< HEAD
 我是主分支
-=======
-hahahha
->>>>>>> hot-fix
+
